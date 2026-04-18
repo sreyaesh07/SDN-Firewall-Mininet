@@ -100,6 +100,37 @@ The flow table shows:
 
 ---
 
+Output Screenshots
+Controller Output
+<img width="890" height="345" alt="image" src="https://github.com/user-attachments/assets/e941d6eb-8b15-4dbc-9f59-d7f464b2d314" />
+
+
+
+
+Mininet Topology
+<img width="892" height="426" alt="image" src="https://github.com/user-attachments/assets/bcf16fd5-17fc-4e15-a46a-08dbbbfc7b0d" />
+
+
+
+
+Blocked Traffic
+<img width="681" height="122" alt="image" src="https://github.com/user-attachments/assets/a864c8ca-8436-4e8d-a77c-0d1c86f8be6d" />
+
+
+
+
+Allowed Traffic
+<img width="644" height="248" alt="image" src="https://github.com/user-attachments/assets/758d35c9-1251-4f45-8230-e8b9c19aaf6b" />
+
+
+
+
+Flow Table
+<img width="1164" height="106" alt="image" src="https://github.com/user-attachments/assets/b1d77c9b-c07f-4ae0-8072-d6335086429f" />
+
+
+---
+
 ## Results
 
 The firewall was successfully implemented and tested.
