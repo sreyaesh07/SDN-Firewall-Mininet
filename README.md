@@ -100,30 +100,6 @@ The flow table shows:
 
 ---
 
-## Output Screenshots
-
-### Controller Output
-
-![Controller](screenshots/controller.png)
-
-### Mininet Topology
-
-![Mininet](screenshots/mininet.png)
-
-### Blocked Traffic
-
-![Blocked](screenshots/blocked.png)
-
-### Allowed Traffic
-
-![Allowed](screenshots/allowed.png)
-
-### Flow Table
-
-![Flow Table](screenshots/flow_table.png)
-
----
-
 ## Results
 
 The firewall was successfully implemented and tested.
